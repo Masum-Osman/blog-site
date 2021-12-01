@@ -7,16 +7,16 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 summaryLength = 15
 theme = "working"
-title = "Jacob Tomlinson"
+title = "Masum Osman"
 
 [params]
 SiteSourceURL = "https://github.com/jacobtomlinson/website"
-author = "Jacob Tomlinson"
+author = "Masum Osman"
 avatar = "https://github.com/jacobtomlinson.png"
 description = "Building RAPIDS and Dask at NVIDIA. Tinker with Opsdroid in my spare time. he/him."
 images = ["https://i.imgur.com/Ln3NJU2h.png"]
-twitter = "https://twitter.com/_jacobtomlinson"
-github = "https://github.com/jacobtomlinson"
+twitter = "https://twitter.com/masum_osman"
+github = "https://github.com/Masum-Osman"
 
 footer_left = "Made with <i class=\"fa fa-heart\"></i> using [Hugo](https://gohugo.io/)</a>"
 footer_right = "<i class=\"fa fa-code\"></i> on [Github](https://github.com/jacobtomlinson/jacobtomlinson.github.io) &nbsp;<i class=\"fab fa-github-alt\"></i>"
