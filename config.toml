@@ -12,7 +12,7 @@ title = "Masum Osman"
 [params]
 SiteSourceURL = "https://github.com/jacobtomlinson/website"
 author = "Masum Osman"
-avatar = "https://github.com/jacobtomlinson.png"
+avatar = "https://github.com/Masum-Osman/blog-site/blob/master/resources/_gen/images/252019833_1206972469800326_2610539159241774695_n.jpg"
 description = "Building RAPIDS and Dask at NVIDIA. Tinker with Opsdroid in my spare time. he/him."
 images = ["https://i.imgur.com/Ln3NJU2h.png"]
 twitter = "https://twitter.com/masum_osman"
